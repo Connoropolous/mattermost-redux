@@ -8,9 +8,9 @@
  *
  */
 
-const disableOnIe11 =
-    window && window.navigator && window.navigator.userAgent &&
-    window.navigator.userAgent.indexOf('Trident') !== -1;
+const disableOnIe11 = false
+/*    window && window.navigator && window.navigator.userAgent &&
+    window.navigator.userAgent.indexOf('Trident') !== -1;*/
 
 /**
  * If your application is accepting different values for the same field over
