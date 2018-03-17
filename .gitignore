@@ -25,14 +25,6 @@ mattermost-redux-*.tgz
 .tmp
 
 # Compiled files
-/action_types
-/actions
-/client
-/constants
-/reducers
-/selectors
-/store
-/utils
 
 # browser bundle
 /lib
